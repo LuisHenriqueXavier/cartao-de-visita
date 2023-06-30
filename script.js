@@ -7,11 +7,11 @@ function togglemode() {
   
     // Substituir a imagem e o atributo alt
     if (html.classList.contains('light')) {
-      img.setAttribute('src', './assets/avatar-light.png');
-      img.setAttribute('alt', 'Foto de Mayk Brito sorrindo, usando camisa preta barba e fundo amarelo');
+      img.setAttribute('src', './assets/avatar-light.jpg');
+      img.setAttribute('alt', 'Foto de Luis Henrique Xavier sentado, de calça verde e camiseta preta, olhando para a esquerda');
     } else {
-      img.setAttribute('src', './assets/avatar.png');
-      img.setAttribute('alt', 'Foto de Mayk Brito sorrindo, usando jaqueta preta óculos escuro e fundo degrade roxo e azul');
+      img.setAttribute('src', './assets/avatar.jpg');
+      img.setAttribute('alt', 'Foto de Luis Henrique Xavier, de camiseta preta, com uma calopsita no ombro esquerdo, olhando para ela');
     }
   }
     
