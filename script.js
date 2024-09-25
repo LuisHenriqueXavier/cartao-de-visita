@@ -15,5 +15,5 @@ function togglemode() {
     }
   }
     
-    // se tiver sem light mode, manter a imagem normal
+    // se estiver sem light mode, manter a imagem normal
 
