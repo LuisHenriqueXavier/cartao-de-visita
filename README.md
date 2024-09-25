@@ -1,3 +1,3 @@
-# cartao-de-visita pessoal
+# cartao-de-visita-pessoal
 
 https://luishenriquexavier.github.io/cartao-de-visita/
